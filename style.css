@@ -1,0 +1,12 @@
+@font-face {
+    font-family: ‘Old School Adventure;
+    src: url(./old_school_adventures/Old\ School\ Adventures.ttf) format(‘truetype’);
+    src: url(./old_school_adventures/Old\ School\ Adventures.woff);
+    font-weight: normal;
+    font-style: normal;
+    }
+
+    body{
+        font-family: ‘Old School Adventure;
+    }
+    
