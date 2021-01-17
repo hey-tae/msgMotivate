@@ -8,5 +8,16 @@
 
     body{
         font-family: ‘Old School Adventure;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        height: 100vh;
+        margin: 0;
     }
     
+    p{
+        width: 90vw;
+        border: 5px solid pink;
+        padding: 25px;
+    }
