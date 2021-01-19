@@ -16,8 +16,19 @@
         margin: 0;
     }
     
+
+    img{
+        width: 250px;
+        height: 250px;
+    }
+
     p{
         width: 90vw;
         border: 5px solid pink;
         padding: 25px;
+        /* visibility: hidden; */
+    }
+
+    #next{
+        /* visibility: hidden; */
     }
